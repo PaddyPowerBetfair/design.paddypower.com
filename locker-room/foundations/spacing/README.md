@@ -1,33 +1,65 @@
 # Spacing
 
-## About spacings
 
-Spacing can be considered a breathing room of element’s boundary. You can add spacing to the top, bottom, left, and right of an element. You can apply the spacing values to one side, two complimentary sides, or to all four sides.
 
-## Usage
+### About spacings
 
-Spacing can be applied to `margin` or `padding` properties. Likewise, these spacing tokens can be applied to both vertical and horizontal edges. The token takes the place of the values normally assigned to `margin` and `padding`.
+Spacing can be considered a breathing room of element’s boundary. You can add spacing to the top, bottom, left, and right of an element. You can apply the spacing values to one side, two complimentary sides, or to all four sides.  
 
-![Spacing](./media/Spacing_usage.png)
 
-## Types
 
-We can consider there are two main groups of spacings one for spacing within components and the other for layout spacing. Both are designed to complement the existing components and typography throughout the our system. For that we use a horizontal and a vertical spacings system.
+### Baseline grid
 
-![spacing](./media/spacing_types3.png)
+All components align to an 4px square baseline grid for mobile, tablet, and desktop.
 
-**Layout Spacings** - Spacing between screen edge and other elements should always respect 8px.
+![Spacing](./media/spacing_4px.png)
 
-## Specs
+> Elements align to a 4px grid. 
+
+
+
+### Spacing methods
 
 Use the spacing system when building individual components or general layouts. It includes small increments needed to create appropriate detailed level designs. This scale is applied and used within all components and layouts.
 
-A 8px/point rule should be the ideal spacing system used when possible. In cases where it is impossalbe to apply that rule we then use other spacings. (Ex:2px,4px,12px,14px)
+
+
+#### Padding
 
 ![spacing_usage](./media/spacing_specs_1.png)
 
-## Vertical rhythm
+> Padding method
 
-We use a fixed 8px sizing scale to set vertical spacing between sections, by adding it to the top or bottom margin of a element or a component.
 
-![spacing_usage](./media/spacing_vertical_rhythm.png)
+
+Padding refers to the space between UI elements, can be measured vertically and horizontally. 
+
+![spacing_usage](./media/spacing_12px.png)
+
+> A layout with 12px padding between components.
+
+
+
+![spacing_usage](./media/spacing_components.png)
+
+> Padding be used on components. 
+
+
+
+### Vertical rhythm
+
+Paddy Power base font is 16px, which produces a 4px baseline. All text flows vertically along this baseline, creating a similar rhythm across all screens. This rhythm is created by the 24px line height between each line of text and the margin between elements.
+
+![vertical](./media/vertical-rhythm.png)
+
+
+
+### Breakpoint table 
+
+The margin from the content and the margins of the device are different from mobile and desktop:
+
+| Left/Right Margin | Device Size |
+| ----------------- | ----------- |
+| 12px              | ≤768        |
+| 24px              | ≥768        |
+
