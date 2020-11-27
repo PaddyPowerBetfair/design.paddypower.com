@@ -137,7 +137,7 @@ This type of tab is always used on top of a card and edge to edge. When using th
 
 
 
-![tab](./media/tabs-anim.mp4)
+![tab](./media/tabs-anim.mp4  ':include width=100% controls=true loop=true')
 
 
 

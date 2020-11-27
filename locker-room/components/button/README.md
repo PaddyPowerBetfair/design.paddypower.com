@@ -137,7 +137,7 @@ Buttons can contain a combination of a clear label and an icon while links are a
 
 A loading animation is used when performing when computational or connections speeds are slow. They help to notify users that loading is underway. 
 
-![primaryPallete](./media/button_anim.mp4)
+![primaryPallete](./media/button_anim.mp4  ':include width=100% controls=true loop=true')
 
 
 

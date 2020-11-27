@@ -80,7 +80,7 @@ Sliders have normal, hover, and pressed states.
 
 ### Interaction & transition
 
-### ![badge-struture](./media/slider.mp4)
+### ![badge-struture](./media/slider.mp4  ':include width=100% controls=true loop=true')
 
 
 

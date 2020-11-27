@@ -18,14 +18,14 @@ Use checkboxes to:
 
 - Select one or multiple items from a list
 
-![checkbox_struture](./media/checkbox_multi.mp4)
+![checkbox_struture](./media/checkbox_multi.mp4  ':include width=100% controls=true loop=true')
 
 
 
 - Select to apply a promo or functionallity 
 
 
-![checkbox_struture](./media/checkbox_single.mp4)
+![checkbox_struture](./media/checkbox_single.mp4  ':include width=100% controls=true loop=true')
 
 
 

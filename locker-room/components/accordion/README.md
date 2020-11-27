@@ -117,7 +117,7 @@ Each accordion is expanded/collapsed by tapping **the row (5)**.
 
 Do not collapse/expand accordions without a transition.  Collapse and expand should happen very quickly. A good rule of thumb is complete an expand/collapse in 300 milliseconds using a SlideDown. 
 
-![accordion1](./media/accordion.mp4)
+![accordion1](./media/accordion.mp4  ':include width=100% controls=true loop=true')
 
 
 

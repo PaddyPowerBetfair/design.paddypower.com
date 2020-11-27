@@ -115,7 +115,7 @@ Bet Buttons are composed of two elements:
 
 When the odds increase or decrease an animation indicates a change in odds and button style. The button changes from **Bet Button** to **Bet Button Price Up** or **Bet Button Price Down**. This signifier is used to notify users of changes. After 4 seconds it fades out and rolls back to the normal bet button colour.
 
-![primaryPallete](media/normal.mp4)
+![primaryPallete](media/normal.mp4  ':include width=100% controls=true loop=true')
 
 ## Live Component 
 
